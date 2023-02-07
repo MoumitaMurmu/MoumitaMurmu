@@ -1,7 +1,7 @@
 <h1 align="center">⚡️ A Few Quick Facts 🧐 Hi 👋, I'm Moumita Murmu.</h1>
 <h3 align="center">👩🏻‍🎓 Graduted in B.Tech in Computer Science And Engineering.</h3>
 
-<img align="right" alt="coding" width="400" src="Web dev.gif"
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moumitamurmu&label=Profile%20views&color=0e75b6&style=flat" alt="moumitamurmu" /> </p>
 
