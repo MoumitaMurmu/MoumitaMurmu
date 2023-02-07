@@ -4,10 +4,11 @@
 <h3 align="center">👩🏻‍🎓 Graduted in B.Tech in Computer Science And Engineering.</h3>
 
 
+<img align="right" width="420" src="https://user-images.githubusercontent.com/69195751/217329592-3cb74864-505f-4643-8ff3-bd7295694591.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moumitamurmu&label=Profile%20views&color=0e75b6&style=flat" alt="moumitamurmu" /> </p>
 
-- 🌱 currently I’m learning **Full Stack Web Development Course.**
+- 🌱 currently I’m learning **Full Stack Web Development.**
 
 - 🤝 I’m looking for Job/Internship on **Front-End Web Development.**
 
