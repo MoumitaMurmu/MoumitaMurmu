@@ -1,5 +1,6 @@
 ![logo](https://github.com/MoumitaMurmu/MoumitaMurmu/blob/main/github%20banner.jpg)
-<h1 align="center">⚡️ A Few Quick Facts 🧐 Hi 👋, I'm Moumita Murmu.</h1>
+<h1 align="center">Hi 👋, I'm Moumita Murmu.</h1>
+<h2  align="center">⚡️ A Few Quick Facts About Me🧐</h2>
 <h3 align="center">👩🏻‍🎓 Graduted in B.Tech in Computer Science And Engineering.</h3>
 
 
