@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moumitamurmu&label=Profile%20views&color=0e75b6&style=flat" alt="moumitamurmu" /> </p>
 
-- 🌱 I’m currently learning **Full Stack Web Development Course.**
+- 🌱 currently I’m learning **Full Stack Web Development Course.**
 
 - 🤝 I’m looking for Job/Internship on **Front-End Web Development.**
 
