@@ -15,11 +15,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/MoumitaMurmu](https://github.com/MoumitaMurmu)
 
-- 💬 Ask me about **React.js, Redux,JS(ES6),Bootstrap, Css, Html.**
+- 💬 Ask me about **React.js, Redux, JS(ES6), Bootstrap, Css, Html.**
 
-- ✉ How to reach me **mmoumita202016@gmail.com**
+- ✉ You can reach me at **mmoumita202016@gmail.com**
 
-- 🎉 Fun fact **I love bitter melon(Karela).**
+- 🎉 Fun fact **I like bitter melon(Karela😁)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
