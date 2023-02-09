@@ -22,7 +22,7 @@
 
 
 
-- 🎉 Fun fact **I like bitter melon(Karela😁)**
+- 🎉 Fun fact **Hardwork is also a kind of Smartwork😎**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
