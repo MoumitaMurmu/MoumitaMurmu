@@ -10,7 +10,7 @@
 
 - 🌱 currently I’m learning **Full Stack Web Development.**
 
-- 🤝 I’m looking for Job/Internship on **Front-End Web Development.**
+
 - 👨‍💻 All of my projects are available at [https://github.com/MoumitaMurmu](https://github.com/MoumitaMurmu)
 - 💬 Ask me about **React.js, Redux, JS(ES6), Bootstrap, Css, Html.**
 - ✉ You can reach me at **mmoumita202016@gmail.com**
