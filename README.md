@@ -14,7 +14,7 @@
 - 👨‍💻 All of my projects are available at [https://github.com/MoumitaMurmu](https://github.com/MoumitaMurmu)
 - 💬 Ask me about **React.js, Redux, JS(ES6), Tailwind Css, Bootstrap, Css, Html.**
 - ✉ You can reach me at **mmoumita202016@gmail.com**
-- 📝 I am often active on [linkedin.com/in/moumita-murmu-832637218](linkedin.com/in/moumita-murmu-832637218)
+- 📝 I am often active on [https://www.linkedin.com/in/moumita-murmu-832637218/](https://www.linkedin.com/in/moumita-murmu-832637218/)
 
 
 
