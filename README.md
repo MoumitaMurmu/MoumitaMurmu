@@ -12,7 +12,7 @@
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MoumitaMurmu](https://github.com/MoumitaMurmu)
-- 💬 Ask me about **Java, React.js, Redux, JavaScript,ES6, Firebase, Material UI, Styled-Componenet, Tailwind Css, Bootstrap, Css, Html.**
+- 💬 Ask me about **Java, React.js, Redux, JavaScript,ES6, Firebase, Chart.js, Framer-Motion, Material UI, Styled-Componenet, Tailwind Css, Bootstrap, Css, Html.**
 - ✉ You can reach me at **mmoumita202016@gmail.com**
 - 📝 I am often active on [https://www.linkedin.com/in/moumita-murmu-832637218/](https://www.linkedin.com/in/moumita-murmu-832637218/)
 
