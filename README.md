@@ -1,6 +1,6 @@
 ![logo](https://github.com/MoumitaMurmu/MoumitaMurmu/blob/main/github%20banner.jpg)
 <h1 align="center">Hi👋,hope you all are doing well😇</h1>
-<h2  align="center">⚡️A Few Quick Facts About Me🧐</h2>
+<h2  align="center">⚡️Facts About Me🧐</h2>
 <h3 align="center">👩🏻‍🎓 Graduted in B.Tech in Computer Science And Engineering.</h3>
 
 
@@ -8,11 +8,11 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=moumitamurmu&label=Profile%20views&color=0e75b6&style=flat" alt="moumitamurmu" /> </p>
 
-- 🌱 currently I’m learning **Full Stack Web Development.**
+- 🌱 **Full Stack Web Developer.**
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MoumitaMurmu](https://github.com/MoumitaMurmu)
-- 💬 Ask me about **Java, React.js, Redux, JavaScript,ES6, Firebase, Chart.js, Framer-Motion, Material UI, Styled-Componenet, Tailwind Css, Bootstrap, Css, Html.**
+- 💬 Ask me about **Java, Node.js, React.js, Redux, Context-API,JavaScript,ES6, Firebase, Chart.js, Framer-Motion, Material UI, Styled-Componenet, Tailwind Css, Bootstrap, Css, Html.**
 - ✉ You can reach me at **mmoumita202016@gmail.com**
 - 📝 I am often active on [https://www.linkedin.com/in/moumita-murmu-832637218/](https://www.linkedin.com/in/moumita-murmu-832637218/)
 
