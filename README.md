@@ -16,6 +16,7 @@
 💬 **Ask me about:** JavaScript, React.js, TypeScript, jQuery, Firebase, Node.js, Express, MongoDB  
 
 ### 📌 My Work  
+🔗 **Portfolio:** [moumita-murmu-portfolio.netlify.app](https://moumita-murmu-portfolio.netlify.app/)  
 🔗 **Projects & Contributions:** [GitHub Portfolio](https://github.com/MoumitaMurmu)  
 📩 **Reach out to me:** moumitamurmuu@gmail.com  
 🔗 **Let's connect:** [LinkedIn](https://www.linkedin.com/in/moumita-murmu-832637218/)  
