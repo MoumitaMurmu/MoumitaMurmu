@@ -12,8 +12,8 @@
 
 
 - 👨‍💻 All of my projects are available at [https://github.com/MoumitaMurmu](https://github.com/MoumitaMurmu)
-- 💬 Ask me about **Java, Node.js, React.js, Redux, Context-API,JavaScript,ES6, Firebase, Chart.js, Framer-Motion, Material UI, Styled-Componenet, Tailwind Css, Bootstrap, Css, Html.**
-- ✉ You can reach me at **mmoumita202016@gmail.com**
+- 💬 Ask me about **JavaScript, React.js, TypeScript, JQuery, Firebase, Node.js, Express, MongoDB**
+- ✉ You can reach me at **moumitamurmuu@gmail.com**
 - 📝 I am often active on [https://www.linkedin.com/in/moumita-murmu-832637218/](https://www.linkedin.com/in/moumita-murmu-832637218/)
 
 
