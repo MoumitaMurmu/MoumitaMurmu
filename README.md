@@ -1,5 +1,8 @@
 ![logo](https://github.com/MoumitaMurmu/MoumitaMurmu/blob/main/github%20banner.jpg)
 
+### 🎉 Fun Fact  
+💡 **Hard work is a form of smart work!** 😎
+
 <h1 align="center">Hi there! 👋</h1>
 <h2 align="center">Welcome to My GitHub Universe 🚀</h2>
 
@@ -65,5 +68,4 @@
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=moumitamurmu&" alt="GitHub Streak" />
 </p>
 
-### 🎉 Fun Fact  
-💡 **Hard work is a form of smart work!** 😎
+
