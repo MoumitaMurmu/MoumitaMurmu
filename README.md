@@ -1,8 +1,6 @@
 ![logo](https://github.com/MoumitaMurmu/MoumitaMurmu/blob/main/github%20banner.jpg)
 
-### 🎉 Fun Fact  
-💡 **Hard work is a form of smart work!** 😎
-<h2 align="center">💡Hard work is a form of smart work! 😎</h2>
+<h3 align="center"> 🎉 Fun Fact  : 💡Hard work is a form of smart work! 😎</h3>
 
 <h1 align="center">Hi there! 👋</h1>
 <h2 align="center">Welcome to My GitHub Universe 🚀</h2>
