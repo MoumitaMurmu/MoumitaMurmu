@@ -2,6 +2,7 @@
 
 ### 🎉 Fun Fact  
 💡 **Hard work is a form of smart work!** 😎
+<h2 align="center">💡Hard work is a form of smart work! 😎</h2>
 
 <h1 align="center">Hi there! 👋</h1>
 <h2 align="center">Welcome to My GitHub Universe 🚀</h2>
