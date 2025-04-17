@@ -2,8 +2,8 @@
 
 <h3 align="center"> 🎉 Fun Fact  : 💡Hard work is a form of smart work! 😎</h3>
 
-<h2 align="center">Hey there! 👋</h2>
-<h2 align="center">Welcome to My GitHub Universe 🚀</h2>
+<h2 align="center">Hey there 👋 Welcome to My GitHub Universe 🚀</h2>
+
 
 <img align="right" width="380" src="https://user-images.githubusercontent.com/69195751/217329592-3cb74864-505f-4643-8ff3-bd7295694591.gif">
 
